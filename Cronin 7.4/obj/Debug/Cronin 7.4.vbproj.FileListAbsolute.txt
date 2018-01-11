@@ -1,0 +1,20 @@
+C:\Users\Michael\Desktop\VB\Cronin 7.4\Cronin 7.4\bin\Debug\Cronin 7.4.exe.config
+C:\Users\Michael\Desktop\VB\Cronin 7.4\Cronin 7.4\bin\Debug\Cronin 7.4.exe
+C:\Users\Michael\Desktop\VB\Cronin 7.4\Cronin 7.4\bin\Debug\Cronin 7.4.pdb
+C:\Users\Michael\Desktop\VB\Cronin 7.4\Cronin 7.4\bin\Debug\Cronin 7.4.xml
+C:\Users\Michael\Desktop\VB\Cronin 7.4\Cronin 7.4\obj\Debug\Cronin_7._4.frmExtracredit.resources
+C:\Users\Michael\Desktop\VB\Cronin 7.4\Cronin 7.4\obj\Debug\Cronin_7._4.Resources.resources
+C:\Users\Michael\Desktop\VB\Cronin 7.4\Cronin 7.4\obj\Debug\Cronin 7.4.vbproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\VB\Cronin 7.4\Cronin 7.4\obj\Debug\Cronin 7.4.exe
+C:\Users\Michael\Desktop\VB\Cronin 7.4\Cronin 7.4\obj\Debug\Cronin 7.4.xml
+C:\Users\Michael\Desktop\VB\Cronin 7.4\Cronin 7.4\obj\Debug\Cronin 7.4.pdb
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 7.4\Cronin 7.4\bin\Debug\Cronin 7.4.exe.config
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 7.4\Cronin 7.4\obj\Debug\Cronin 7.4.exe
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 7.4\Cronin 7.4\obj\Debug\Cronin 7.4.xml
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 7.4\Cronin 7.4\obj\Debug\Cronin 7.4.pdb
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 7.4\Cronin 7.4\bin\Debug\Cronin 7.4.exe
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 7.4\Cronin 7.4\bin\Debug\Cronin 7.4.pdb
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 7.4\Cronin 7.4\bin\Debug\Cronin 7.4.xml
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 7.4\Cronin 7.4\obj\Debug\Cronin_7._4.frmExtracredit.resources
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 7.4\Cronin 7.4\obj\Debug\Cronin_7._4.Resources.resources
+C:\Users\Michael\Desktop\Schooled\VB\Cronin 7.4\Cronin 7.4\obj\Debug\Cronin 7.4.vbproj.GenerateResource.Cache
